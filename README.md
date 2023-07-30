@@ -6,5 +6,6 @@
 * eggjs:  learn-eggjs
 * nodejs: learn-nodejs
 * nodejsc++: learn-nodejs-c
+* javascript: learn-javascript
 
 * react: learn-react
