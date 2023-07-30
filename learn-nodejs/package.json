@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^3.0.1",
+    "bagpipe": "^0.3.5",
+    "iconv-lite": "^0.4.24",
+    "rewire": "^4.0.1"
+  }
+}
