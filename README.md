@@ -11,3 +11,4 @@
 * react: learn-react
 * redis: learn-redis
 * python: learn-python
+* nginx: learn-nginx
