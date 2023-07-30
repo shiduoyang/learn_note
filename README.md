@@ -9,3 +9,4 @@
 * javascript: learn-javascript
 
 * react: learn-react
+* redis: learn-redis
