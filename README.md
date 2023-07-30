@@ -12,3 +12,26 @@
 * python: learn-python
 * nginx: learn-nginx
 * golang: learn-golang
+
+
+TODO
+* learn-mysql
+* learn-mongodb
+* learn-postgresql
+* learn-dynamodb
+
+* learn-docker
+* learn-kubernetes
+* learn-jenkins
+* learn-kafka
+* learn-rabbitMQ
+
+
+* template-golang-gin
+* template-golang-bingo
+* template-nodejs-koa-http
+* template-nodejs-koa-websocket
+* template-nodejs-express-http
+* template-nodejs-express-websocket
+* template-python-django
+* template-python-Scrapy

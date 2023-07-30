@@ -11,3 +11,5 @@ react 练手项目
 6. 响应事件 如 onClick={onClickHandler}  ... function onClickHandler
 7. 可使用useState 来让组件“记住”一些事情
 8. 可以通过将useState放在父节点组件的方式，来让各子节点共享数据
+
+更多资源=>react-native-guide/*
